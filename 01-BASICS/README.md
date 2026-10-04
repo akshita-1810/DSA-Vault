@@ -1,16 +1,24 @@
-# Input & Output
+# 01-Basics
 
-Basic C++ programs to understand how to take input and display output.
+This folder contains the fundamental C++ concepts required to build a strong foundation for Data Structures and Algorithms.
 
-## Topics Covered
+## 📚 Topics Covered
 
-* `cin` and `cout`
-* Single and multiple inputs
-* Character input
-* String input
-* `getline()`
-* Formatted output
+* Input & Output
+* Variables & Data Types
+* Operators
+* Conditionals
+* Loops
+* Functions
+* Patterns
+* Basic Math
+* Number Problems
+* Character & ASCII
 
-## Language
+## 🎯 Purpose
+
+The goal of this section is to strengthen C++ fundamentals and develop basic problem-solving skills before moving on to core Data Structures and Algorithms.
+
+## 💻 Language
 
 C++
